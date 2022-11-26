@@ -22,6 +22,7 @@ programa
 			}
 			
 		}enquanto(sair != "sair")
+		escreva("A quantidade de números é: ",qtdnum)
 	}
 }
 /* $$$ Portugol Studio $$$ 
