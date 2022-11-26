@@ -1,2 +1,2 @@
 # ATIVIDADES-LOGICA-
-(eu apaguei meu repositória antigo sem querer '-')
+(eu apaguei meu repositório antigo sem querer '-')
