@@ -1,6 +1,6 @@
 programa
 {
-	
+	//Daniel Rodrigues, Kalyne Ellen, Kauê Rabelo
 	funcao inicio()
 	/*4. Crie um algoritmo que insira os elementos em uma 
 	 * matriz 4x4 e calcule a soma do elementos da sua diagonal principal. 
