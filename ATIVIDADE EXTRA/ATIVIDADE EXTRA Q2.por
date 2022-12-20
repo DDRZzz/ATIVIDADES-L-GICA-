@@ -1,6 +1,6 @@
 programa
 {
-	
+	//Daniel Rodrigues, Kalyne Ellen, Kauê Rabelo
 	funcao inicio()
 	/*2. Crie um algoritmo que leia uma matriz 6X5 de números reais. 
 	 * Depois, solicite ao usuario, um número referente a uma linha e outro referente a uma coluna e imprima o valor armazenado nessa posicao na matriz
