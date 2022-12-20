@@ -1,3 +1,7 @@
+programa{
+	funcao inicio(){
+	//Daniel Rodrigues, Kalyne Ellen, Kauê Rabelo
+
 inteiro A [6][6], matriz2[6][6]
 
           para( inteiro i = 0; i < 6; i ++){
@@ -21,7 +25,8 @@ inteiro A [6][6], matriz2[6][6]
           
           }
 	}
-	 
+	}
+	}
 	 
 	  escreva("\n O centro da matriz é:", matriz2[3][3])
 /* $$$ Portugol Studio $$$ 
